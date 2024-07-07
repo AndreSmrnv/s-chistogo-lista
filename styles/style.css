@@ -1,6 +1,8 @@
+
 body {
     font-family: 'Inter', sans-serif;
     font-weight: 400;
+    scroll-behavior: smooth;
 }
 
 .content-section {
@@ -19,5 +21,39 @@ body {
     }
 
 }
+
+.header {
+    padding: 24px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__logo {
+    display: block;
+    width: 78px;
+    height: 16px;
+}
+
+.header__logo-image {
+    display: block;
+}
+
+.header__menu {
+
+}
+
+.header__menu-list {
+
+}
+
+.header__menu-item {
+
+}
+
+.header__menu-item-active {
+
+}
+
+
 
 

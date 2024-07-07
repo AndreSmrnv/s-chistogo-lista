@@ -9,11 +9,13 @@ body {
     max-width: 360px;
 
     &_theme_bright {
-
+        background-color: #FEE42A;
+        color: #131313;
     }
 
     &_theme_dark {
-
+        background-color: #131313;
+        color: #F5F5F5;
     }
 
 }

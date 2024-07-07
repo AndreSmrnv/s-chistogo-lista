@@ -1,0 +1,23 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+
+.content-section {
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-width: 360px;
+
+    &_theme_bright {
+        background-color: #FEE42A;
+        color: #131313;
+    }
+
+    &_theme_dark {
+        background-color: #131313;
+        color: #F5F5F5;
+    }
+
+}
+
+
